@@ -1,0 +1,21 @@
+﻿body {
+    background-color: #000;
+}
+
+#bloki {
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.blok {
+    background-color: #eee;
+    float:left;
+    width:11px;
+    height:11px;
+    margin-bottom:2px;
+    margin-right:2px;
+}
+
+.blok:hover {
+    background-color: #bbb;
+}
